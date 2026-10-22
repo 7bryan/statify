@@ -1,0 +1,17 @@
+# Security
+.env
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS & Editor Files
+.DS_Store
+.idea/
