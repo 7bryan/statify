@@ -1,6 +1,6 @@
 # STATIFY (Currently stopped / not getting developed)
 
-simple spotify analyzer
+simple spotify analyzer with graph analyzer
 
 ## Project Structure
 
