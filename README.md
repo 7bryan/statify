@@ -1,4 +1,4 @@
-# STATIFY (Currently stopped)
+# STATIFY (Currently stopped / not getting developed)
 
 simple spotify analyzer
 
